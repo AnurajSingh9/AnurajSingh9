@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anuraj Singh
-- 🌱 I’m currently learning Power BI || Excel || SQL || Python 
+- Data professional with experience across analytics and data engineering, skilled in SQL, Python, Excel, and Power BI. Comfortable working with data pipelines, APIs, analysis, and visualization to support data-driven decision making.
 - 📫 How to reach me - [LinkedIn](https://www.linkedin.com/in/anuraj-singh/)
 
 
