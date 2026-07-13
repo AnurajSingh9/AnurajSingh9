@@ -30,7 +30,7 @@ I'm passionate about solving complex engineering challenges, developing producti
 
 ## 📫 Connect With Me
 
-- Email: anurajsingh0909@gmail.com
+- [Email](anurajsingh0909@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anuraj-singh/)
 
 
