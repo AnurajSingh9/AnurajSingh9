@@ -1,39 +1,34 @@
 # 👋 Hi, I'm Anuraj Singh
 
-Senior Data Engineer and AI Engineer with 5+ years of experience designing scalable data platforms, backend systems, and AI-ready pipelines.
+Senior Software Engineer focused on **AI evaluation**, **RL/agent environments**, and production Python systems.
 
-I specialize in Python, SQL, Apache Spark, Kafka, FastAPI, Docker, and AWS, building high-performance ETL pipelines, distributed data processing systems, REST APIs, and infrastructure for machine learning and Generative AI applications.
+I build reproducible benchmarks, verifiers, and AI-ready data platforms used to evaluate and operate LLM/agent systems.
 
-I'm passionate about solving complex engineering challenges, developing production-grade software, and creating reliable, scalable systems that power data-driven and AI-powered solutions.
+## Featured projects
+
+- **[EvalForge](https://github.com/AnurajSingh9/evalforge)** — Production LLM evaluation platform (FastAPI, workers, quality gates, metrics)
+- **[ledger-repair](https://github.com/AnurajSingh9/ledger-repair)** — RL environment for coding agents with oracle grading and soundness checks
+- **[Basalt](https://github.com/AnurajSingh9/basalt)** — Enterprise knowledge pipelines + agent ops (RAG, PII/quality, LLMOps)
 
 ## 🚀 Tech Stack
 
-**Languages:** Python, SQL
+**Core:** Python, SQL, FastAPI, Docker, PostgreSQL, Redis  
 
-**Data Engineering:** Apache Spark (PySpark), Kafka, Airflow, dbt, Delta Lake, Apache NiFi
+**AI / Eval:** LLM evaluation, RL/agent environments, oracle grading, RAG, pgvector  
 
-**AI Engineering:** LangChain, OpenAI API, RAG Pipelines, LLM Evaluation, Vector Databases (Pinecone)
-
-**Backend:** FastAPI, REST APIs, Docker, Git, GitHub Actions
-
-**Cloud:** AWS (S3, Lambda, EC2, IAM, Redshift)
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Snowflake, Redis
+**Data:** Spark, Airflow, Kafka, AWS (S3, Lambda, EC2)
 
 ## 🌱 Currently Working On
 
-- AI Data Platforms
-- LLM & Generative AI Applications
-- Backend Engineering
-- Scalable Data Pipelines
-- Open Source Projects
+- RL/agent evaluation environments and verifier soundness
+- LLM evaluation pipelines and benchmark engineering
+- AI-ready data platforms for retrieval and agent workflows
 
 ## 📫 Connect With Me
 
-- [Email](anurajsingh0909@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anuraj-singh/)
-
-
+- [Email](mailto:anurajsingh0909@gmail.com)
+  
 <!---
 AnurajSingh9/AnurajSingh9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
