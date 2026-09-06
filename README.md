@@ -13,10 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnurajSingh9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-35E6A2?style=for-the-badge&logo=vercel&logoColor=070B0D)](https://anurajsingh9.github.io/anuraj-portfolio/)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnurajSingh9&label=Profile+Views&color=35E6A2&style=flat-square)
-
 </div>
 
 ---
