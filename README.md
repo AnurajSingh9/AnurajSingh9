@@ -1,8 +1,8 @@
 # Anuraj Singh
 
-Senior Software Engineer — **AI evaluation**, **RL environments**, and **data platforms**.
+Senior Software Engineer - **AI evaluation**, **RL environments**, and **data platforms**.
 
-I build benchmarks, verifiers, and production Python systems for LLM/agent quality — plus lakehouse-style pipelines when the work needs real data engineering.
+I build benchmarks, verifiers, and production Python systems for LLM/agent quality - plus lakehouse-style pipelines when the work needs real data engineering.
 
 ---
 
@@ -72,10 +72,10 @@ I build benchmarks, verifiers, and production Python systems for LLM/agent quali
 
 | Project | What it is |
 |---------|------------|
-| **[EvalForge](https://github.com/AnurajSingh9/evalforge)** | LLM eval platform — regression gates, traces, multi-provider scoring |
-| **[Multi-Cloud Data Platform](https://github.com/AnurajSingh9/multi-cloud-data-platform)** | GCP-first lakehouse — Airflow, Spark, dbt, quality gates; AWS mapped |
-| **[ledger-repair](https://github.com/AnurajSingh9/ledger-repair)** | RL env for coding agents — oracle grading + soundness checks |
-| **[Basalt](https://github.com/AnurajSingh9/basalt)** | RAG + agent ops — ingest, search, tool-using agent, run traces |
+| **[EvalForge](https://github.com/AnurajSingh9/evalforge)** | LLM eval platform - regression gates, traces, multi-provider scoring |
+| **[Multi-Cloud Data Platform](https://github.com/AnurajSingh9/multi-cloud-data-platform)** | GCP-first lakehouse - Airflow, Spark, dbt, quality gates; AWS mapped |
+| **[ledger-repair](https://github.com/AnurajSingh9/ledger-repair)** | RL env for coding agents - oracle grading + soundness checks |
+| **[Basalt](https://github.com/AnurajSingh9/basalt)** | RAG + agent ops - ingest, search, tool-using agent, run traces |
 
 ### GitHub
 
