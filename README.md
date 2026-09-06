@@ -207,14 +207,11 @@ class AnurajSingh:
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<div align="center">
+Building tools around AI evaluation, data engineering, and backend systems.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnurajSingh9&show_icons=true&theme=transparent&hide_border=true&title_color=35E6A2&icon_color=35E6A2&text_color=c9d1d9&bg_color=070B0D&cache_seconds=1800" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnurajSingh9&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=35E6A2&text_color=c9d1d9&bg_color=070B0D&cache_seconds=1800" alt="Top languages" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/View_GitHub_Profile-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnurajSingh9)
 
 ---
 
